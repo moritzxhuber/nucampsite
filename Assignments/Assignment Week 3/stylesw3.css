@@ -1,0 +1,61 @@
+body {
+  font-family: "Open Sans", "sans-serif";
+}
+
+h2,
+h3 {
+  font-family: "Architects Daughter";
+}
+
+h1 {
+  font-family: "Alex Brush", "bold";
+  color: #daa520;
+}
+
+h2 {
+  color: #000000;
+}
+
+h3 {
+  color: #daa520;
+}
+
+header h2 {
+  color: #000000c0;
+}
+
+.site-footer {
+  background-image: linear-gradient(#f8f8ff, white);
+  padding: 20px 0;
+}
+
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+  background-image: linear-gradient(to right, #f8f8ff, #b0c4de);
+  color: white;
+}
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+.navbar-light {
+  background-color: #ffffff;
+  border-bottom: 1px ridge;
+  color: #000000;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+  border: solid #000000;
+}
+
+.blackedout {
+  filter: brightness(0%);
+}
